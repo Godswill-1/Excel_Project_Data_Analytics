@@ -60,9 +60,12 @@ It includes detailed information on:
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     
   - 📊 data_jobs_all
+  
+  ![Project_2_Analysis_3](https://github.com/user-attachments/assets/d94e83ef-7f14-4724-a31c-e8208dd94ee6)
  
   - 🛠️ data_jobs_skills
-
+  
+![Project_2_Analysis_4](https://github.com/user-attachments/assets/3cf6003b-7200-48fb-948f-3cd1ab620acd)
 
 ### 📊 Analysis
 
@@ -72,6 +75,7 @@ It includes detailed information on:
 
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
+![Project_2_Analysis_5](https://github.com/user-attachments/assets/1234927a-292a-48d2-9249-deb0560d483f)
 
 
 #### 🤔 So What  
@@ -106,7 +110,7 @@ Median Salary ;= MEDIAN(data_jobs_all[salary_year_avg])
 - 💼 Job roles like Senior Data Engineer and Data Scientist command hogher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
 - 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
 
-
+![Uploading Project_2_Analysis_6.jpg…]()
 
  #### 🤔 So What
  
@@ -124,11 +128,13 @@ Median Salary ;= MEDIAN(data_jobs_all[salary_year_avg])
 #### 🔗 Data Model
 - I created  a relationship between my two tables using the ```job_id``` column.
 
+![Project_2_Analysis_7](https://github.com/user-attachments/assets/34f2066c-b97e-42b3-a661-a55a7f4a634e)
 
 
 #### 📃 Power Pivot Menu
 - The Power Pivot menu was used to refine my data model and makes it easy to create measures.
 
+![Project_2_Analysis_8](https://github.com/user-attachments/assets/02185015-ec1e-4659-b16d-035b6d141063)
 
 
 ### 📊 Analysis
@@ -139,6 +145,7 @@ Median Salary ;= MEDIAN(data_jobs_all[salary_year_avg])
 
 - ☁️ Emerging technologies like AWS and Azure also show significant presence, underling the industry's shift towards cloud services and big data technologies.
 
+![Project_2_Analysis_9](https://github.com/user-attachments/assets/5128e1d7-554e-4d58-b1db-15bfcda9a451)
 
 
 #### 🤔 So What
@@ -163,7 +170,10 @@ Median Salary ;= MEDIAN(data_jobs_all[salary_year_avg])
  - 💰 Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
   
  - 📉 Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
- 
+
+![Project_2_Analysis_10](https://github.com/user-attachments/assets/edf9575d-cb09-4f82-ac71-8c932aae66a7)
+
+
 ### 🤔So What
 
 - This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
