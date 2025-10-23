@@ -1,6 +1,6 @@
 # My Excel Data Analytics Projects  
 
-Data Nerds! This repo contains all the Excel files needed to follow along on how came to be: [Excel for Data Analytics](Excel_Project_Data_Analytics)
+Data Nerds! This repo contains all the Excel files needed to follow along on how came to be: [Excel for Data Analytics]([Excel_Project_Data_Analytics](https://github.com/Godswill-1/Excel_Project_Data_Analytics))
 
 ## Salary Dashboard  
 This data jobs salary Dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
